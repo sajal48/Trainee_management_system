@@ -1,0 +1,6 @@
+enum TaskType{
+  DAILY_TASK,
+  MINI_PROJECT,
+  MID_PROJECT,
+  FINAL_PROJECT
+}

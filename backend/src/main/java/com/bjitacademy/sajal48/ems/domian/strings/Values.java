@@ -1,0 +1,37 @@
+package com.bjitacademy.sajal48.ems.domian.strings;
+public class Values {
+    public static final String DATE_FORMAT = "yyyy/MM/dd";
+    public static final String DATE_FORMAT_FILES = "yyyyMMddHHmmssSSS";
+    public static final String USER_ADD_FAILURE = "Error while adding user information";
+    public static final String USER_UPDATE_FAILURE = "Error while updating user information";
+    public static final String DB_DATA_FETCH_FAILURE = "Error fetching information from database";
+    public static final String TRAINEE_FETCH_ERROR = "Failed to get batch information or extract user IDs";
+    public static final String TASK_ADD_FAILURE = "Task Creation failed";
+    public static final String TASK_UPDATE_FAILURE = "Error updating task";
+    public static final String TASK_SUBMISSION_FAILURE = "Task submission failed";
+    public static final String SCORE_GENERATION_FAILURE = "saving final Score failed";
+    public static final String FEEDBACK_ADD_FAILURE = "feedback add failed";
+    public static final String FEEDBACK_UPDATE_FAILURE = "feedback update failed";
+    public static final String FILE_UPLOAD_FAILURE = "File upload failed";
+    public static final String FILE_DOWNLOAD_FAILURE = "File download failed";
+    public static final String DATABASE_EXCEPTION_DEFAULT_PLACEHOLDER = "Database Exception occurred : ";
+    public static final String EVALUATION_UPLOAD_FAILURE = "Mark upload failed";
+    public static final String WEIGHTAGE_NOT_FOUND = "No weightage  found";
+    public static final String WEIGHTAGE_UPDATE_FAILURE = "Error updating weightage";
+    public static final Double DEFAULT_DAILY_TASK_WEIGHTAGE = 10.0;
+    public static final Double DEFAULT_MINI_PROJECT_WEIGHTAGE = 15.0;
+    public static final Double DEFAULT_MID_PROJECT_WEIGHTAGE = 25.0;
+    public static final Double DEFAULT_FINAL_PROJECT_WEIGHTAGE = 50.0;
+    public static final Double DEFAULT_MANAGERS_EVALUATION_WEIGHTAGE = 20.0;
+    public static final Double DEFAULT_DOMAIN_WEIGHTAGE = 80.0;
+    public static final Double DEFAULT_TRAINING_WEIGHTAGE = 67.0;
+    public static final Double DEFAULT_HR_INTERVIEW_WEIGHTAGE = 33.0;
+    public static final String DEFAULT_ROLE_INITIALIZATION_FAILURE = " Error occurred while adding default roles";
+    public static final String USERS_ALREADY_EXIST = "User with Email Already Exists";
+    public static final String ROLE_NOT_FOUND = "No Matching Role Found ";
+    public static final String WRONG_CREDENTIAL = "Wrong credential";
+    public static final String USER_NOT_FOUND = "User not found with email: ";
+    public static final String BATCH_ADD_FAILURE = "batch creation failed";
+    public static final String BATCH_UPDATE_FAILURE = "Batch updating failed";
+    public static final String BATCH_DELETE_FAILURE = "Batch deletion failed";
+}

@@ -1,0 +1,26 @@
+
+jwt:
+  secret-key: "703373367639792442264529482B4D6251655468576D5A7134743777217A2543"
+spring:
+  application:
+    name: ems
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+  datasource:
+    url: jdbc:postgresql://localhost:5432/ems
+    username: username
+    password: password
+management:
+  endpoint:
+    mappings:
+      enabled: true
+springdoc.swagger-ui.path: /api-docs/swagger-ui.html
+springdoc.api-docs.path: /api-docs/doc
+server:
+  port: 8080

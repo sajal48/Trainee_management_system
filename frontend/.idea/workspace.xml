@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fd78900-bb9b-4a6e-8c7b-6fddf2ce5db9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/EmsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/EmsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/advice/CustomExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/advice/CustomExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/config/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/config/ApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/config/CoreConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/config/CoreConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/config/CorsConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/config/CorsConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/config/CustomAuthenticationProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/config/CustomAuthenticationProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/config/OpenAPIConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/config/OpenAPIConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/BatchController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/BatchController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/EvaluationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/EvaluationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/FinalScoreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/FinalScoreController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/WeightController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/controller/v1/WeightController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/AuthenticateResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/AuthenticateResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/BatchRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/BatchRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/ErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/ErrorResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/FeedbackDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/FeedbackDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/FinalProjectEvaluationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/FinalProjectEvaluationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/ManagersEvaluationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/ManagersEvaluationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/PasswordUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/PasswordUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/RegisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/TaskDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/TaskDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/TaskEvaluationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/TaskEvaluationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/TaskEvaluationUpdateDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/TaskEvaluationUpdateDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/TaskSubmitDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/TaskSubmitDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/UpdatePasswordRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/UpdatePasswordRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/UserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/UserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/UserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/UserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/UserUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/UserUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/WeightageDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/dto/WeightageDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/filters/JwtFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/filters/JwtFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/filters/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/filters/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/values/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/application/values/Messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/batch/Batch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/batch/Batch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/batch/BatchRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/batch/BatchRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/batch/BatchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/batch/BatchService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/credential/Roles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/credential/Roles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/credential/UserCredential.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/credential/UserCredential.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/credential/UserCredentialRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/credential/UserCredentialRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/credential/UserCredentialService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/credential/UserCredentialService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/credential/UserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/credential/UserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/credential/UserRoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/credential/UserRoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/AptitudeAndHrEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/AptitudeAndHrEvaluation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/AptitudeAndHrEvaluationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/AptitudeAndHrEvaluationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/EvaluationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/EvaluationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/FinalProjectEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/FinalProjectEvaluation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/FinalProjectEvaluationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/FinalProjectEvaluationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/ManagerEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/ManagerEvaluation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/ManagerEvaluationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/ManagerEvaluationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/TaskEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/TaskEvaluation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/TaskEvaluationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/TaskEvaluationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/Weightage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/Weightage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/WeightageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/WeightageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/WeightageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/evaluation/WeightageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/exception/DatabaseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/exception/DatabaseException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/exception/UserCredentialException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/exception/UserCredentialException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/exception/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/exception/UserNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/file/FileInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/file/FileInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/file/FileInfoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/file/FileInfoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/file/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/file/FileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/scoreGeneration/FeedBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/scoreGeneration/FeedBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/scoreGeneration/FeedBackRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/scoreGeneration/FeedBackRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/scoreGeneration/FinalScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/scoreGeneration/FinalScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/scoreGeneration/FinalScoreRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/scoreGeneration/FinalScoreRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/scoreGeneration/ScoreGenerationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/scoreGeneration/ScoreGenerationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/strings/Values.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/strings/Values.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/task/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/task/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/task/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/task/TaskRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/task/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/task/TaskService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/task/TaskSubMissionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/task/TaskSubMissionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/task/TaskSubmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/task/TaskSubmission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/task/TaskTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/task/TaskTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/userDetails/AdminBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/userDetails/AdminBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/userDetails/TraineeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/userDetails/TraineeBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/userDetails/TrainerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/userDetails/TrainerBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/userDetails/UserCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/userDetails/UserCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/userDetails/UserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/userDetails/UserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/userDetails/UserDetailsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/userDetails/UserDetailsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/userDetails/UserInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/domian/userDetails/UserInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/batch/BatchJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/batch/BatchJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/evaluation/AptitudeAndHrEvaluationJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/evaluation/AptitudeAndHrEvaluationJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/evaluation/FinalProjectEvaluationJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/evaluation/FinalProjectEvaluationJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/evaluation/ManagerEvaluationJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/evaluation/ManagerEvaluationJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/evaluation/TaskEvaluationJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/evaluation/TaskEvaluationJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/fileinfo/FileInfoJpaInfoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/fileinfo/FileInfoJpaInfoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/finalScore/FeedBackJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/finalScore/FeedBackJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/finalScore/FinalScoreJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/finalScore/FinalScoreJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/task/TaskJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/task/TaskJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/task/TaskSubmissionJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/task/TaskSubmissionJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/userCredential/RoleJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/userCredential/RoleJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/userCredential/UserCredentialJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/userCredential/UserCredentialJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/userInfo/UserInfoJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/userInfo/UserInfoJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/weightage/WeightageJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/bjitacademy/sajal48/ems/infastructure/weightage/WeightageJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/controller/app_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/controller/app_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/evaluation_final.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/evaluation_final.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/layout.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/layout.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/widgets/ink_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/widgets/ink_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2T75KmQOOYrKsgD7jzAPbIIsU8U" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "io.flutter.reload.alreadyRun": "true",
+    "last_opened_file_path": "E:/EMS projects/YSD_B02_J2EE_FinalProject_Sajal/frontend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "0d570cb2-96df-43cc-80da-7f777e6d0afe",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fd78900-bb9b-4a6e-8c7b-6fddf2ce5db9" name="Changes" comment="" />
+      <created>1690381216532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690381216532</updated>
+      <workItem from="1690381221280" duration="3427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
